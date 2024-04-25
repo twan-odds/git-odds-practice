@@ -1,1 +1,3 @@
 Name: Twan
+Address: 123/1
+Phone: 0123456789
